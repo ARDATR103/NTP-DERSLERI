@@ -1,0 +1,9 @@
+c:\users\lab\documents\visual studio 2013\Projects\AKTARMA\AKTARMA\bin\Debug\AKTARMA.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\AKTARMA\AKTARMA\bin\Debug\AKTARMA.exe
+c:\users\lab\documents\visual studio 2013\Projects\AKTARMA\AKTARMA\bin\Debug\AKTARMA.pdb
+c:\users\lab\documents\visual studio 2013\Projects\AKTARMA\AKTARMA\obj\Debug\AKTARMA.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\AKTARMA\AKTARMA\obj\Debug\AKTARMA.Form1.resources
+c:\users\lab\documents\visual studio 2013\Projects\AKTARMA\AKTARMA\obj\Debug\AKTARMA.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\AKTARMA\AKTARMA\obj\Debug\AKTARMA.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\AKTARMA\AKTARMA\obj\Debug\AKTARMA.exe
+c:\users\lab\documents\visual studio 2013\Projects\AKTARMA\AKTARMA\obj\Debug\AKTARMA.pdb
