@@ -7,3 +7,12 @@ C:\Users\celal\OneDrive\Belgeler\Visual Studio 2013\Projects\DÖNGÜ ÖRNEKLERİ
 C:\Users\celal\OneDrive\Belgeler\Visual Studio 2013\Projects\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\celal\OneDrive\Belgeler\Visual Studio 2013\Projects\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\celal\OneDrive\Belgeler\Visual Studio 2013\Projects\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DÖNGÜ ÖRNEKLERİ.csproj.GenerateResource.Cache
+C:\Users\celal\OneDrive\Belgeler\GitHub\NTP-DERSLERI\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\celal\OneDrive\Belgeler\GitHub\NTP-DERSLERI\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\celal\OneDrive\Belgeler\GitHub\NTP-DERSLERI\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\celal\OneDrive\Belgeler\GitHub\NTP-DERSLERI\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\celal\OneDrive\Belgeler\GitHub\NTP-DERSLERI\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\celal\OneDrive\Belgeler\GitHub\NTP-DERSLERI\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DÖNGÜ ÖRNEKLERİ.csprojResolveAssemblyReference.cache
+C:\Users\celal\OneDrive\Belgeler\GitHub\NTP-DERSLERI\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\celal\OneDrive\Belgeler\GitHub\NTP-DERSLERI\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\celal\OneDrive\Belgeler\GitHub\NTP-DERSLERI\DÖNGÜ ÖRNEKLERİ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DÖNGÜ ÖRNEKLERİ.csproj.GenerateResource.Cache
