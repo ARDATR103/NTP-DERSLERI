@@ -1,6 +1,0 @@
-C:\Users\LAB\Documents\Visual Studio 2013\Projects\KOLEKSIYONLAR\DIZILER-1\bin\Debug\DIZILER-1.exe.config
-C:\Users\LAB\Documents\Visual Studio 2013\Projects\KOLEKSIYONLAR\DIZILER-1\bin\Debug\DIZILER-1.exe
-C:\Users\LAB\Documents\Visual Studio 2013\Projects\KOLEKSIYONLAR\DIZILER-1\bin\Debug\DIZILER-1.pdb
-C:\Users\LAB\Documents\Visual Studio 2013\Projects\KOLEKSIYONLAR\DIZILER-1\obj\Debug\DIZILER-1.csprojResolveAssemblyReference.cache
-C:\Users\LAB\Documents\Visual Studio 2013\Projects\KOLEKSIYONLAR\DIZILER-1\obj\Debug\DIZILER-1.exe
-C:\Users\LAB\Documents\Visual Studio 2013\Projects\KOLEKSIYONLAR\DIZILER-1\obj\Debug\DIZILER-1.pdb
