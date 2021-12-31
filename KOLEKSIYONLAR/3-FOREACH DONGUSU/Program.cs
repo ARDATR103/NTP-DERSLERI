@@ -10,7 +10,7 @@ namespace FOREACH_DONGUSU
     {
         static void Main(string[] args)
         {
-            int[] sayılar = new int[] { 43, 756, 1223, 765 };
+            int[] sayılar = new int[] { 43, 756, 1223, 7655 };
 
             foreach (int item in sayılar)
             {
