@@ -1,0 +1,6 @@
+c:\users\lab\documents\visual studio 2013\Projects\DİZİLER 1\DİZİLER 1\bin\Debug\DİZİLER 1.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\DİZİLER 1\DİZİLER 1\bin\Debug\DİZİLER 1.exe
+c:\users\lab\documents\visual studio 2013\Projects\DİZİLER 1\DİZİLER 1\bin\Debug\DİZİLER 1.pdb
+c:\users\lab\documents\visual studio 2013\Projects\DİZİLER 1\DİZİLER 1\obj\Debug\DİZİLER 1.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\DİZİLER 1\DİZİLER 1\obj\Debug\DİZİLER 1.exe
+c:\users\lab\documents\visual studio 2013\Projects\DİZİLER 1\DİZİLER 1\obj\Debug\DİZİLER 1.pdb
