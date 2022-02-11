@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLASS-01", "CLASS\CLASS-01.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLASS-02", "CLASS-02\CLASS-02.csproj", "{A06C4383-0E02-4D7D-AF27-F93AA5F59467}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLASS-03", "..\..\..\..\Desktop\_KitapDukkani_1\_KitapDukkani\CLASS-03.csproj", "{BD35F6FC-D1A4-437D-A3AD-AA5B90221BE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLASS-03", "CLASS-03\_KitapDukkani\CLASS-03.csproj", "{BD35F6FC-D1A4-437D-A3AD-AA5B90221BE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
